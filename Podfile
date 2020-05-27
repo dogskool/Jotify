@@ -32,6 +32,6 @@ target 'Jotify' do
   pod'SPAlert'
 
   # Used for verifying purchase receipts for users who bought Jotify as a paid application
-  pod'OpenSSL-Universal'
+#  pod'OpenSSL-Universal'
 
 end
